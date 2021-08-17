@@ -1,0 +1,55 @@
+h1{
+    text-align: center;
+    font-size:50px;
+    font-family: 'Titillium Web', sans-serif;
+}
+.mydiv01{
+    left: 170px;
+    top: 70px;
+    position: absolute;
+}
+.mydiv1{
+    left:170px ; 
+    top:110px;  
+    position: absolute; 
+}
+
+.mydiv2{
+    left:700px ;
+    top:140px;
+    position: absolute;
+}
+.mydiv11{
+    left: 05px;
+    top: 120px;
+    position: absolute;
+    font-size: 20px;
+}
+/* new */
+.mydiv03{
+    left: 170px;
+    top: 70px;
+    position: absolute;
+}
+.mydiv3{
+    left:1070px ; 
+    top:810px;  
+    position: absolute; 
+}
+
+.mydiv4{
+    left:170px ;
+    top:840px;
+    position: absolute;
+}
+.mydiv31{
+    left: 05px;
+    top: 120px;
+    position: absolute;
+    font-size: 20px;
+}
+.divfooter{
+    left:510px ;
+    top:1900px;
+    position: absolute;
+}
